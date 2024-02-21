@@ -5,7 +5,7 @@ A predictive model for classifying Tiktok videos claim status
 ## Overview 
 
 The goal of this project was to create a predictive model that predicts claim status for tiktok videos.
-We trained thrww models which are  NaiveBayes , RandomForest and XGBOOST.
+We trained three models which are  NaiveBayes , RandomForest and XGBOOST.
 The champion model was Random Forest with recall 0.997.
 
 ## Business Understanding 
